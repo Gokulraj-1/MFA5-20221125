@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+}body{
+    background-color:#3dbeff;
+    font-family: 'Barlow', sans-serif;
+}
+header{
+   display: flex;
+   justify-content: space-between;
+   
+
+}
+#logo{
+    margin: 30px;
+}
+nav{
+    margin: 30px;
+    margin-right: 60px;
+}
+header a {
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+    font-size: 23px;
+}
+#btn1{
+    margin:0px 15px 0px 0px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: 1px solid #3dbeff;
+    background-color:  white;
+    color: black;
+   width: 120px;
+   height: 50px;
+   font-size: 16px;
+   font-family: 'Fraunces', serif;
+   text-transform: uppercase;
+}
+/* .sec1{
+    background-image:url(images/desktop/image-header.jpg);
+    width: 100%;
+    height: 900px;
+} */
+.sec1 h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Fraunces', serif;   
+}
+.sec2{
+    display: flex;
+    background-color: white;
+    
+}
+.box1{
+    width: 50%;
+   position: relative;
+    left: 150px;
+   top: 180px;
+}
+h1{
+    font-family: 'Fraunces', serif;   
+    font-size: 40px;
+    font-weight: 900;
+
+}
+p{
+  color: grey;
+    font-family: 'Barlow', sans-serif;
+    margin-top: 20px;
+}
+h4{
+    text-transform: uppercase;
+    font-family:  'Fraunces', serif;
+    
+    margin-top: 25px;
+}
+.sec3{
+    display: flex;
+    background-color: white;
+}
+.box2{
+    width: 40%;
+   position: relative;
+    left: 150px;
+   top: 180px;
+}
+.sec4{
+    display: flex;
+}
+.sec4-1{
+    width: 50%;
+    background-image: url(images/desktop/image-graphic-design.jpg);
+    height: 500px;
+    text-align: center;
+}
+.head1{
+    margin-top: 330px;
+    font-family:'Fraunces', serif; ;
+}
+.sec4-2{
+    width: 50%;
+    background-image: url(images/desktop/image-photography.jpg);
+    height: 500px;
+    text-align: center;
+}
