@@ -96,7 +96,8 @@ h4{
 }
 .head1{
     margin-top: 330px;
-    font-family:'Fraunces', serif; ;
+    font-family:'Fraunces', serif; 
+    color: hsl(198, 62%, 26%);
 }
 .sec4-2{
     width: 50%;
